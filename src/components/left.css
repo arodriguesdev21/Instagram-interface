@@ -1,0 +1,46 @@
+.left-nav {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    color: rgb(0, 0, 0);
+    gap: 0;
+    width: 200px;
+    position: fixed;
+    top: 0;
+    left: 5px;
+    height: 100vh;
+}
+
+.left-nav:hover {
+    color: rgb(255, 255, 255);
+    transition: 0.3s;
+    width: 280px;
+}
+
+.left-bottom {
+    margin-top: 130px;
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+}
+
+.instagram-icon {
+    margin: 20px 0 80px 13px;
+
+}
+
+.nav-item {
+    display: flex;
+    padding: 15px;
+
+}
+
+.nav-item:hover {
+    background-color: rgba(30, 33, 37, 1);
+    color: white;
+    border-radius: 8px;
+}
+
+.nav-item span {
+    margin-left: 20px;
+}

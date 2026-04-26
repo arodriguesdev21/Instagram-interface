@@ -1,0 +1,72 @@
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+
+article {
+    color: rgb(255, 255, 255);
+    margin-top: 50px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    width: 380px;
+    height: 50px;
+}
+
+.header img {
+    width: 32px;
+    height: 30px;
+    border-radius: 17px;
+    background-image: cover;
+}
+
+.header button {
+    margin-left: 157px;
+    width: 12px;
+    cursor: pointer;
+}
+
+.header span {
+    font-size: small;
+}
+
+.post img {
+    width: 380px;
+    border-radius: 5px;
+}
+
+.footer {
+    display: flex;
+    gap: 5px;
+    margin-top: 5px;
+}
+
+.footer button {
+    display: flex;
+    padding: 0;
+    align-items: center;
+    gap: 5px;
+    all: unset;
+    cursor: pointer;
+    margin-top: 2px;
+    margin-left: 4px;
+}
+
+.footer .marker {
+    margin-left: 188px;
+}
+
+.captions p {
+    margin: 5px 0 5px 3px;
+    font-size: 15px;
+}
+
+.translate p {
+    margin: 0 0 0 3px;
+    font-size: 12px;
+    font-weight: bold;
+}

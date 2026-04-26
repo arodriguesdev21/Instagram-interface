@@ -1,0 +1,53 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.stories-container {
+    display: flex;
+    color: white;
+    gap: 22px;
+
+}
+
+.story {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 12px;
+}
+
+.story img {
+    display: flex;
+    flex-direction: column;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    padding: 2px;
+    object-fit: cover;
+    background: linear-gradient(45deg, #feda75, #d62976, #962fbf);
+}
+
+.btn1 {
+    display: flex;
+    align-items: center;
+    margin-right: 8px;
+}
+
+.btn2 {
+    display: flex;
+    align-items: center;
+    margin-left: 8px;
+}
+
+button {
+    border-radius: 11px;
+    border: none;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    width: 20px;
+}
+
+button:hover {
+    background-color:rgba(30, 33, 37, 1);;
+}
