@@ -1,42 +1,25 @@
-# 📸 Instagram UI Clone
+# 📸 Instagram Interface Clone
 
-Este projeto é uma interface inspirada no Instagram, desenvolvida com foco em praticar conceitos de front-end moderno utilizando React.
+This project is a front-end interface inspired by Instagram, built using React. The goal was to replicate the main layout and user experience of the platform.
 
-## 🚀 Funcionalidades
+## 🚀 Features
 
-- 📌 Navbar lateral fixa (estilo Instagram)
-- 👥 Seção de Stories
-- 🖼️ Feed de posts
-- 💬 Caixa de mensagens
-- ❤️ Interações básicas
+- Left navigation bar
+- Stories section
+- Posts feed
+- Message box UI
+- Interactive icons 
 
-## 🛠️ Tecnologias utilizadas
+## 🛠️ Technologies Used
 
 - React
-- CSS
 - JavaScript
+- CSS
+- Vite
 
-## 🎯 Objetivo
+## 🎯 Purpose
 
-O objetivo deste projeto foi praticar:
-- Componentização no React
-- Organização de layout
-- Estilização com CSS
-- Estruturação de uma interface real
-
-
-## 📚 Aprendizados
-
-Durante o desenvolvimento, foram reforçados conceitos como:
-- Separação de componentes
-- Reutilização de código
-- Estruturação de interfaces complexas
-- Manipulação de estados no React
-
-## 📌 Observações
-
-Este projeto é apenas para fins de estudo e não possui nenhuma afiliação com o Instagram.
-
----
-
-Feito por Arthur Rodrigues 🚀
+This project was created to practice:
+- Component-based architecture
+- UI replication from real-world applications
+- State management with React
